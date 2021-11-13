@@ -1,0 +1,1 @@
+#### [How to revalidate data on focus with SWR and React Native](https://dev.to/anabeatrizzz/how-to-integrate-swr-with-react-native-3g5l-temp-slug-9209837?preview=530066de3716c8725b6d5acee72fe1eae0eae9c366901ee15ab5ac94bb7e21a3c3d828acee2b16952f527fac4872b9d52e63847fc7cd1df6a150acee)
