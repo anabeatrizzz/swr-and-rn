@@ -6,12 +6,6 @@ async function getCities(){
   return response.data
 }
 
-async function putCitie(newData: any){
-  const response = await api.get(endpoint, newData)
-  return response.data
-}
-
 export {
-  getCities,
-  putCitie
+  getCities
 }

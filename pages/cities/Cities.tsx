@@ -5,7 +5,7 @@ import { useSWRNativeRevalidate } from "@nandorojo/swr-react-native";
 import styles from './Cities.css'
 import useSWR from 'swr';
 
-export default function Posts(){
+export default function Cities(){
   const fetcher = () => getCities().then(data => data)
   const { data: cities, mutate } = useSWR('/v1/city', fetcher)
   useSWRNativeRevalidate({ mutate });

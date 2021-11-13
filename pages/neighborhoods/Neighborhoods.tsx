@@ -5,7 +5,7 @@ import useSWR from 'swr';
 import { getNeighborhoods } from '../../services/neighborhoods';
 import styles from './Neighborhoods.css';
 
-export default function Users(){
+export default function Neighborhoods(){
   const fetcher = () => getNeighborhoods().then(data => data)
   const { data: neighborhoods, mutate } = useSWR('/v1/neighborhood', fetcher)
   useSWRNativeRevalidate({ mutate });
