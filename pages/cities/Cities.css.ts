@@ -4,16 +4,21 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     justifyContent: 'space-evenly',
-    alignItems: 'center'
+    alignItems: 'center',
+    marginHorizontal: 10
   },
 
-  nameTxt: {
+  name: {
     color: 'black',
-    fontWeight: '700'
+    fontWeight: '700',
+    fontSize: 30,
+    textAlign: 'center'
   },
 
-  emailTxt: {
-    color: 'black'
+  state: {
+    color: 'black',
+    fontSize: 30,
+    textAlign: 'center'
   }
 })
 
