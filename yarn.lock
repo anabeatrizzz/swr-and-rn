@@ -986,10 +986,10 @@
     "@types/yargs" "^16.0.0"
     chalk "^4.0.0"
 
-"@nandorojo/swr-react-native@^1.0.0-beta.8.1":
-  version "1.0.0-beta.8.1"
-  resolved "https://registry.yarnpkg.com/@nandorojo/swr-react-native/-/swr-react-native-1.0.0-beta.8.1.tgz#cf3c3940b665cfe3aa8aa61063d1ab2c4441de99"
-  integrity sha512-jPyh9OzgnvL9rTwWCTP6fX8uZB4P03xFOn3xKCZ05nFH+ZWKSC139nT59vtg+s45io2EYkUeZjz7o6P7RA0m8w==
+"@nandorojo/swr-react-native@^1.2.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@nandorojo/swr-react-native/-/swr-react-native-1.2.0.tgz#363d9cb40caa4f42eacb6f2a8793f41e5b40e04b"
+  integrity sha512-p+fN8Ktb8syDhvBP2dqou1lBnk05IdKoRhtu28YHIDMNYmUsJWd4eoG0zCmOSZoVFhKduLW2bHPmhf1SHtr9Ow==
 
 "@react-native-community/cli-debugger-ui@^6.0.0-rc.0":
   version "6.0.0-rc.0"
