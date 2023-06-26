@@ -12,7 +12,7 @@
   "dependencies": {
     "@nandorojo/swr-react-native": "^1.2.0",
     "@react-native-community/netinfo": "^9.3.7",
-    "@react-navigation/bottom-tabs": "^6.0.9",
+    "@react-navigation/bottom-tabs": "^6.5.8",
     "@react-navigation/elements": "^1.2.1",
     "@react-navigation/native": "^6.0.6",
     "@react-navigation/stack": "^6.0.11",
